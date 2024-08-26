@@ -7,6 +7,6 @@ Utilizo esse espaço para minha organização e compartilhamento dos meu projeto
 Você pode entrar em contato comigo 📫
 alurastartestudante@email.com
 
-@alurastartestudante
-![alurastartestudante@email.com](link)
+
+![](link)
 
